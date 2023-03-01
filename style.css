@@ -1,11 +1,4 @@
-h1 {
-  color: pink;
-  font-size: 100px;
-  text-align: center;
-}
-
-h2 {
-  color: cyan;
-  font-size: 50px;
-  text-align: ;
+#prueva {
+  text-shadow: 15px 15px hotpink;
+  text-transform: uppercase;
 }
