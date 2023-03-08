@@ -8,10 +8,17 @@
 #linea2 {
   color: lightgreen;
 }
+
 .linea3Y4 {
   background-color: black;
   color: white;
 }
+
 .linea5y6 {
   color: lightskyblue;
+}
+
+#linea7 {
+  text-shadow: 15px 15px lightcoral;
+  font-size: 50px;
 }
