@@ -4,3 +4,14 @@
   margin-right: auto;
   filter: drop-shadow(15px 15px pink);
 }
+h2 {
+  color: lightskyblue;
+  text-align: center;
+}
+h3 {
+  color: mediumaquamarine;
+}
+#charles {
+  display: block;
+  filter: drop-shadow(10px 10px red);
+}
