@@ -11,11 +11,20 @@ h2 {
 h3 {
   color: mediumaquamarine;
 }
-#charles.1 {
-color: red
-  font-size:20px;
+#charles1 {
+  color: red;
+  font-size: 30px;
 }
 #charles {
   display: block;
   filter: drop-shadow(15px 15px red);
+}
+#perrito1 {
+  color: violet;
+  font-size: 30px;
+}
+#perrito {
+  display: block;
+  filter: drop-shadow(15px 15px lightcoral);
+  margin-left: 200px;
 }
