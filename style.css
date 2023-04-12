@@ -10,6 +10,7 @@ body {
 header h1 {
   background-color: lightpink;
   color: white;
+  text-shadow: 5px 5px black;
   padding: 3rem 2rem;
   font-size: 3rem;
   text-align: center;
