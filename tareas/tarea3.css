@@ -1,0 +1,30 @@
+#vaca {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(15px 15px pink);
+}
+h2 {
+  color: lightskyblue;
+  text-align: center;
+}
+h3 {
+  color: mediumaquamarine;
+}
+#charles1 {
+  color: red;
+  font-size: 30px;
+}
+#charles {
+  display: block;
+  filter: drop-shadow(15px 15px red);
+}
+#perrito1 {
+  color: violet;
+  font-size: 30px;
+}
+#perrito {
+  display: block;
+  filter: drop-shadow(15px 15px lightcoral);
+  margin-left: 200px;
+}
